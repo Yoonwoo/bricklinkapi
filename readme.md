@@ -25,3 +25,6 @@ func main() {
     fmt.Println(bl.GetItem("part", "3001"))
 }
 ```
+
+Maintain new endpoint
+https://www.bricktoa.com.au/
